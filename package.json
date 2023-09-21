@@ -1,0 +1,25 @@
+{
+  "name": "inzyniersi",
+  "version": "1.0.0",
+  "description": "Sample test scenario",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Thoorst/inzyniersi.git"
+  },
+  "author": "Thoorst",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Thoorst/inzyniersi/issues"
+  },
+  "homepage": "https://github.com/Thoorst/inzyniersi#readme",
+  "dependencies": {
+    "pretier": "^0.0.1"
+  },
+  "devDependencies": {
+    "cypress": "^13.2.0"
+  }
+}
